@@ -1,7 +1,6 @@
 # List Of All Repositories including HIDDEN.
 > * You may contact me if you require any Repositories for educational purpose.
-> * The Contact Details are on my github profile and given bellow.
-    >  benison.besra@gmail.com<br>www.benisonbesra.com
+> * The Contact Details are on my github profile and given bellow.<br>benison.besra@gmail.com<br>www.benisonbesra.com
 1. Deep Learning Laboratory.
     > dllab with "7 labs" covering all the important topics.
 1. Pattern Recognization and Machine Learning Lab
